@@ -1,0 +1,2 @@
+# Relational-database-based-on-EER-Relational-schema-query-the-database-
+This project involves designing a conceptual database schema using the Enhanced Entity-Relationship (EER) model, converting it into a relational schema, and preparing it for implementation in a relational database management system. Students will model a library system that tracks books, copies of books, patrons, transactions, and authors.
